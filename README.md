@@ -1,7 +1,5 @@
 # Hi there, I'm Stefano Riva 👋
 
-## About Me
-
 I'm a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano*. My work focuses on:
 
 - 📉 Reduced order modelling and data assimilation
