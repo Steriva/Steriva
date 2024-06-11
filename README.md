@@ -12,6 +12,8 @@ Hello! I'm **Stefano Riva**, I'm a PhD Student in **Energy and Nuclear Science a
 
 ## Code Packages
 
+If you are interested, have a look at the following routines and packages
+
 ### [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce)
 🚀 Python Framework for data-driven model Order Reduction of multi-physiCs problEms
 
@@ -26,14 +28,14 @@ Hello! I'm **Stefano Riva**, I'm a PhD Student in **Energy and Nuclear Science a
 <table>
   <tr>
     <td>
-      📫 **Email:**
+      📫 Email:
       <ul>
         <li><a href="mailto:stefano.riva@polimi.it">stefano.riva@polimi.it</a></li>
         <li><a href="mailto:steriva@outlook.it">steriva@outlook.it</a></li>
       </ul>
     </td>
     <td>
-      🔗 **Connect with me:**
+      🔗 Connect with me:
       <ul>
         <li><a href="https://linkedin.com/in/steriva"><img src="https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></li>
         <li><a href="https://github.com/Steriva"><img src="https://img.shields.io/badge/GitHub-Steriva-black?style=flat-square&logo=github" alt="GitHub"></a></li>
