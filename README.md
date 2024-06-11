@@ -1,6 +1,6 @@
 # Hi there, I'm Stefano Riva 👋
 
-I'm a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano* ([**ERMETE-Lab**](https://github.com/ERMETE-Lab). 
+I'm a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano* ([**ERMETE-Lab**](https://github.com/ERMETE-Lab)). 
 
 My work focuses on:
 
@@ -15,7 +15,7 @@ My work focuses on:
 If you are interested, have a look at the following routines and packages
 
 
-| Package | Description |
+| Name | Description |
 | ------- | ----------- |
 | [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce) | 🚀 Python Framework for data-driven model Order Reduction of multi-physiCs problEms |
 | [**ROM4FOAM**](https://github.com/ERMETE-Lab/ROSE-ROM4FOAM) | ⚙️ Reduced Order Modelling techniques for OpenFOAM-v6 |
