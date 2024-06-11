@@ -23,11 +23,22 @@ Hello! I'm **Stefano Riva**, I'm a PhD Student in **Energy and Nuclear Science a
 
 ## Contact
 
-📫 **Email:**
-- [stefano.riva@polimi.it](mailto:stefano.riva@polimi.it)
-- [steriva@outlook.it](mailto:steriva@outlook.it)
-
-🔗 **Connect with me:**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/steriva)
-- [![GitHub](https://img.shields.io/badge/GitHub-Steriva-black?style=flat-square&logo=github)](https://github.com/Steriva)
-- [![GitLab](https://img.shields.io/badge/GitLab-Steriva-orange?style=flat-square&logo=gitlab)](https://gitlab.com/Steriva)
+<table>
+  <tr>
+    <td>
+      📫 **Email:**
+      <ul>
+        <li><a href="mailto:stefano.riva@polimi.it">stefano.riva@polimi.it</a></li>
+        <li><a href="mailto:steriva@outlook.it">steriva@outlook.it</a></li>
+      </ul>
+    </td>
+    <td>
+      🔗 **Connect with me:**
+      <ul>
+        <li><a href="https://linkedin.com/in/steriva"><img src="https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></li>
+        <li><a href="https://github.com/Steriva"><img src="https://img.shields.io/badge/GitHub-Steriva-black?style=flat-square&logo=github" alt="GitHub"></a></li>
+        <li><a href="https://gitlab.com/Steriva"><img src="https://img.shields.io/badge/GitLab-Steriva-orange?style=flat-square&logo=gitlab" alt="GitLab"></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
