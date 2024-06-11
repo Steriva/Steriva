@@ -38,8 +38,6 @@ If you are interested, have a look at the following routines and packages
       🔗 Connect with me:
       <ul>
         <li><a href="https://linkedin.com/in/steriva"><img src="https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></li>
-        <li><a href="https://github.com/Steriva"><img src="https://img.shields.io/badge/GitHub-Steriva-black?style=flat-square&logo=github" alt="GitHub"></a></li>
-        <li><a href="https://gitlab.com/Steriva"><img src="https://img.shields.io/badge/GitLab-Steriva-orange?style=flat-square&logo=gitlab" alt="GitLab"></a></li>
       </ul>
     </td>
   </tr>
