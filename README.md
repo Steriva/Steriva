@@ -1,4 +1,4 @@
-# Hi there, I'm Stefano Riva 👋
+# Hello there, I'm Stefano Riva 👋
 
 I'm a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano* ([**ERMETE-Lab**](https://github.com/ERMETE-Lab)). 
 
