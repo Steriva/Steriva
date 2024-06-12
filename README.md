@@ -2,13 +2,13 @@
 
 I'm a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano* ([**ERMETE-Lab**](https://github.com/ERMETE-Lab)). 
 
-My work focuses on:
+My research focuses on:
 
-- 📉 Reduced order modelling and data assimilation
-- 🔬 Nuclear reactor modelling
-- 🌟 Scientific machine learning techniques for nuclear reactors
-- 🌊 Computational fluid dynamics
-- 🔢 Numerical methods for engineering
+- 📉 Reduced Order Modelling and Data Assimilation
+- 🔬 Nuclear Reactors Modelling
+- 🌟 Scientific Machine Learning techniques for Nuclear Reactors
+- 🌊 Computational Fluid Dynamics
+- 🔢 Numerical Methods for Nuclear Engineering
 
 ## Code Packages
 
