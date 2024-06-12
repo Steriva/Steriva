@@ -14,7 +14,6 @@ My research focuses on:
 
 If you are interested, have a look at the following routines and packages
 
-
 | Name | Description |
 | ------- | ----------- |
 | [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce) | 🚀 Python Framework for data-driven model Order Reduction of multi-physiCs problEms |
@@ -36,6 +35,7 @@ If you are interested, have a look at the following routines and packages
       🔗 Connect with me:
       <ul>
         <li><a href="https://linkedin.com/in/steriva"><img src="https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></li>
+        <li><a href="https://www.researchgate.net/profile/Stefano-Riva-4"><img src="https://img.shields.io/badge/ResearchGate-Steriva-green?style=flat-square&logo=researchgate" alt="ResearchGate"></a></li>
       </ul>
     </td>
   </tr>
