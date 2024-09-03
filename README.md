@@ -5,8 +5,8 @@ I'm currently a PhD Student in **Energy and Nuclear Science and Technology** at 
 My research focuses on:
 
 - 📉 Reduced Order Modelling and Data Assimilation
-- 🔬 Nuclear Reactors Modelling
 - 🌟 Scientific Machine Learning techniques for Nuclear Reactors
+- 🔬 Nuclear Reactors Modelling
 - 🌊 Computational Fluid Dynamics
 - 🔢 Numerical Methods for Nuclear Engineering
 
