@@ -1,6 +1,6 @@
 # Hello there, I'm Stefano Riva 👋
 
-I'm a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano* ([**ERMETE-Lab**](https://github.com/ERMETE-Lab)). 
+I'm currently a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano*, within the [**ERMETE-Lab**](https://github.com/ERMETE-Lab) under the supervision of Prof. Antonio Cammi.
 
 My research focuses on:
 
@@ -14,12 +14,12 @@ My research focuses on:
 
 If you are interested, have a look at the following routines and packages
 
-| Name | Description |
-| ------- | ----------- |
-| [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce) | 🚀 Python Framework for data-driven model Order Reduction of multi-physiCs problEms |
-| [**pyISFenix**](https://github.com/ERMETE-Lab/MP-pyISFenix) | 🔬 PYthon framework for the Incompressible Schrodinger Flow using FENIcsX |
-| [**OFELIA**](https://github.com/ERMETE-Lab/MP-OFELIA) | ⚛️ Openmc-FEnicsx for muLtiphysics tutorIAl |
-| [**ROM4FOAM**](https://github.com/ERMETE-Lab/ROSE-ROM4FOAM) | ⚙️ Reduced Order Modelling techniques for OpenFOAM-v6 |
+| Name                                                        | Description                                                                        |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce)   | 🚀 Python Framework for data-driven model Order Reduction of multi-physiCs problEms |
+| [**pyISFenix**](https://github.com/ERMETE-Lab/MP-pyISFenix) | 🔬 PYthon framework for the Incompressible Schrodinger Flow using FENIcsX           |
+| [**OFELIA**](https://github.com/ERMETE-Lab/MP-OFELIA)       | ⚛️ Openmc-FEnicsx for muLtiphysics tutorIAl                                         |
+| [**ROM4FOAM**](https://github.com/ERMETE-Lab/ROSE-ROM4FOAM) | ⚙️ Reduced Order Modelling techniques for OpenFOAM-v6                               |
 
 ## Contact
 
