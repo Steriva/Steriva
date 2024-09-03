@@ -17,8 +17,9 @@ If you are interested, have a look at the following routines and packages
 | Name | Description |
 | ------- | ----------- |
 | [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce) | 🚀 Python Framework for data-driven model Order Reduction of multi-physiCs problEms |
-| [**ROM4FOAM**](https://github.com/ERMETE-Lab/ROSE-ROM4FOAM) | ⚙️ Reduced Order Modelling techniques for OpenFOAM-v6 |
 | [**pyISFenix**](https://github.com/ERMETE-Lab/MP-pyISFenix) | 🔬 PYthon framework for the Incompressible Schrodinger Flow using FENIcsX |
+| [**OFELIA**](https://github.com/ERMETE-Lab/MP-OFELIA) | ⚛️ Openmc-FEnicsx for muLtiphysics tutorIAl |
+| [**ROM4FOAM**](https://github.com/ERMETE-Lab/ROSE-ROM4FOAM) | ⚙️ Reduced Order Modelling techniques for OpenFOAM-v6 |
 
 ## Contact
 
