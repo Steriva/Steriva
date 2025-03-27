@@ -1,43 +1,32 @@
-# Hello there, I'm Stefano Riva 👋
+# Hello there, I'm Stefano Riva 👋  
 
-I'm currently a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano*, within the [**ERMETE-Lab**](https://github.com/ERMETE-Lab) under the supervision of Prof. Antonio Cammi.
+I'm currently a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano*, within the [**ERMETE-Lab**](https://github.com/ERMETE-Lab) under the supervision of **Prof. Antonio Cammi**.  
 
-My research focuses on:
+## 🔬 Research Interests  
+- 📉 Reduced Order Modelling and Data Assimilation  
+- 🌟 Scientific Machine Learning for Nuclear Reactors  
+- 🔬 Nuclear Reactor Modelling  
+- 🌊 Computational Fluid Dynamics  
+- 🔢 Numerical Methods for Nuclear Engineering  
 
-- 📉 Reduced Order Modelling and Data Assimilation
-- 🌟 Scientific Machine Learning techniques for Nuclear Reactors
-- 🔬 Nuclear Reactors Modelling
-- 🌊 Computational Fluid Dynamics
-- 🔢 Numerical Methods for Nuclear Engineering
+## 📦 Code Packages  
 
-## Code Packages
+If you're interested, check out these routines and packages:  
 
-If you are interested, have a look at the following routines and packages
+| Name                                                        | Description                                                                          |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce)   | 🚀 Python framework for data-driven model order reduction of multiphysics problems   |
+| [**NuSHRED**](https://github.com/ERMETE-Lab/NuSHRED)        | ⚡ Shallow Recurrent Decoder for Nuclear Reactor applications                        |  
+| [**pyISFenix**](https://github.com/ERMETE-Lab/MP-pyISFenix) | 🔬 Python framework for the Incompressible Schrödinger Flow using FENICSx            |
+| [**OFELIA**](https://github.com/ERMETE-Lab/MP-OFELIA)       | ⚛️ OpenMC-FEniCSx-based multiphysics tutorial                                        |
+| [**ROM4FOAM**](https://github.com/ERMETE-Lab/ROSE-ROM4FOAM) | ⚙️ Reduced Order Modelling techniques for OpenFOAM-v6                                |
 
-| Name                                                        | Description                                                                        |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce)   | 🚀 Python Framework for data-driven model Order Reduction of multi-physiCs problEms |
-| [**pyISFenix**](https://github.com/ERMETE-Lab/MP-pyISFenix) | 🔬 PYthon framework for the Incompressible Schrodinger Flow using FENIcsX           |
-| [**OFELIA**](https://github.com/ERMETE-Lab/MP-OFELIA)       | ⚛️ Openmc-FEnicsx for muLtiphysics tutorIAl                                         |
-| [**ROM4FOAM**](https://github.com/ERMETE-Lab/ROSE-ROM4FOAM) | ⚙️ Reduced Order Modelling techniques for OpenFOAM-v6                               |
+## 📬 Contact  
 
-## Contact
+- 📧 **Email:**  
+  - [stefano.riva@polimi.it](mailto:stefano.riva@polimi.it)  
+  - [steriva@outlook.it](mailto:steriva@outlook.it)  
 
-<table>
-  <tr>
-    <td>
-      📫 Email:
-      <ul>
-        <li><a href="mailto:stefano.riva@polimi.it">stefano.riva@polimi.it</a></li>
-        <li><a href="mailto:steriva@outlook.it">steriva@outlook.it</a></li>
-      </ul>
-    </td>
-    <td>
-      🔗 Connect with me:
-      <ul>
-        <li><a href="https://linkedin.com/in/steriva"><img src="https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a></li>
-        <li><a href="https://www.researchgate.net/profile/Stefano-Riva-4"><img src="https://img.shields.io/badge/ResearchGate-Steriva-green?style=flat-square&logo=researchgate" alt="ResearchGate"></a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🔗 **Connect with me:**  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/steriva)  
+  - [![ResearchGate](https://img.shields.io/badge/ResearchGate-Steriva-green?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Stefano-Riva-4)  
