@@ -1,6 +1,8 @@
 # Hello there, I'm Stefano Riva 👋  
 
-I'm currently a PhD Student in **Energy and Nuclear Science and Technology** at *Politecnico di Milano*, within the [**ERMETE-Lab**](https://github.com/ERMETE-Lab) under the supervision of **Prof. Antonio Cammi**.  
+I'm currently a Research Collaborator at *Politecnico di Milano*, within the [**ERMETE-Lab**](https://github.com/ERMETE-Lab) under the supervision of **Prof. Antonio Cammi**.  
+
+[Link to PhD Thesis](https://github.com/Steriva/phd-thesis)
 
 ## 🔬 Research Interests  
 - 📉 Reduced Order Modelling and Data Assimilation  
