@@ -1,12 +1,14 @@
 # Hello there, I'm Stefano Riva 👋  
 
-I'm currently a Research Collaborator at *Politecnico di Milano*, within the [**ERMETE-Lab**](https://github.com/ERMETE-Lab) under the supervision of **Prof. Antonio Cammi**.  
+I'm currently a Research Scientist at *Autodesk Research* in London under the supervision of Dr. Nathan Kutz.
+
+I hold a PhD from Politecnico di Milano ([**ERMETE-Lab**](https://github.com/ERMETE-Lab)), where I focused on bridging the gap between Nuclear Engineering and Scientific Machine Learning under the supervision of Prof. Antonio Cammi.
 
 [Link to PhD Thesis](https://github.com/Steriva/phd-thesis)
 
 ## 🔬 Research Interests  
 - 📉 Reduced Order Modelling and Data Assimilation  
-- 🌟 Scientific Machine Learning for Nuclear Reactors  
+- 🌟 Scientific Machine Learning for Multi-Physics simulation (e.g., Nuclear Reactors)
 - 🔬 Nuclear Reactor Modelling  
 - 🌊 Computational Fluid Dynamics  
 - 🔢 Numerical Methods for Nuclear Engineering  
@@ -26,6 +28,7 @@ If you're interested, check out these routines and packages:
 ## 📬 Contact  
 
 - 📧 **Email:**  
+  - [stefano.riva@autodesk.com](mailto:stefano.riva@autodesk.com)  
   - [stefano.riva@polimi.it](mailto:stefano.riva@polimi.it)  
   - [steriva@outlook.it](mailto:steriva@outlook.it)  
 
