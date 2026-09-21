@@ -19,6 +19,7 @@ If you're interested, check out these routines and packages:
 
 | Name                                                        | Description                                                                          |
 |------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [**XLB**](https://github.com/Autodesk/XLB)   | 💧 Accelerated Lattice Boltzmann for Physics-based ML   |
 | [**pyforce**](https://github.com/ERMETE-Lab/ROSE-pyforce)   | 🚀 Python framework for data-driven model order reduction of multiphysics problems   |
 | [**NuSHRED**](https://github.com/ERMETE-Lab/NuSHRED)        | ⚡ Shallow Recurrent Decoder for Nuclear Reactor applications                        |  
 | [**pyISFenix**](https://github.com/ERMETE-Lab/MP-pyISFenix) | 🔬 Python framework for the Incompressible Schrödinger Flow using FENICSx            |
