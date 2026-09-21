@@ -30,7 +30,6 @@ If you're interested, check out these routines and packages:
 - 📧 **Email:**  
   - [stefano.riva@autodesk.com](mailto:stefano.riva@autodesk.com)  
   - [stefano.riva@polimi.it](mailto:stefano.riva@polimi.it)  
-  - [steriva@outlook.it](mailto:steriva@outlook.it)  
 
 - 🔗 **Connect with me:**  
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Steriva-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/steriva)  
